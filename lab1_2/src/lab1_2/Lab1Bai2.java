@@ -11,6 +11,7 @@ public class Lab1Bai2 {
 		int dai = scanner.nextInt();
 		int rong = scanner.nextInt();
 		System.out.printf("Chu vi cua HCN: "+(dai+rong)*2);
+		System.out.printf("Dien tich cua HCN: "+(dai*rong));
 	}
 
 }
